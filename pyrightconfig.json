@@ -1,0 +1,9 @@
+{
+  "include": [
+    "pegasus-track-number-realtime.py",
+    "setup-env.py"
+  ],
+  "reportMissingImports": false,
+  "reportUnusedImport": false,
+  "reportUndefinedVariable": true
+} 
